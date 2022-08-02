@@ -1,3 +1,3 @@
 # PUB_file
 
-For testing only, disabled for profit
+For testing only, not for profit
